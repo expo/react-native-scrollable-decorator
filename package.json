@@ -1,0 +1,25 @@
+{
+  "name": "react-native-scrollable-decorator",
+  "version": "0.0.1",
+  "description": "A standard interface for your scrollable React Native components, making it easier to compose components",
+  "main": "scrollable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/react-native-scrollable-decorator.git"
+  },
+  "keywords": [
+    "react-native",
+    "scrollable",
+    "scrollview",
+    "decorator"
+  ],
+  "author": "James Ide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/react-native-scrollable-decorator/issues"
+  },
+  "homepage": "https://github.com/exponentjs/react-native-scrollable-decorator#readme"
+}

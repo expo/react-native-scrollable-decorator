@@ -1,12 +1,12 @@
-# scrollable
+# react-native-scrollable-decorator
 
 The `@scrollable` decorator lets your scrollable React Native components conform to a standard interface, making it easier to compose components. This lets you compose different types of ScrollView-like components while preserving the `ScrollView` API, including methods like `scrollTo`.
 
-[![npm package](https://nodei.co/npm/react-native-scrollable.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-scrollable/)
+[![npm package](https://nodei.co/npm/react-native-scrollable-decorator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-scrollable-decorator/)
 
 ## Installation
 ```
-npm install react-native-scrollable
+npm install react-native-scrollable-decorator
 ```
 
 ## Usage
