@@ -1,6 +1,6 @@
 {
   "name": "react-native-scrollable-decorator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A standard interface for your scrollable React Native components, making it easier to compose components",
   "main": "scrollable.js",
   "scripts": {
