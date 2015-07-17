@@ -62,7 +62,7 @@ class App extends React.Component {
     return (
       <ListView
         ref={component => { this._scrollView = component; }}
-        renderScrollView={props => <InfiniteScrollView {...props} />}
+        renderScrollComponent={props => <InfiniteScrollView {...props} />}
         dataSource={...}
         renderRow={...}
       />
