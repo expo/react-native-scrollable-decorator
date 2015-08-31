@@ -1,4 +1,4 @@
-# react-native-scrollable-decorator
+# react-native-scrollable-decorator [![Slack](http://slack.exponentjs.com/badge.svg)](http://slack.exponentjs.com)
 
 The `@scrollable` decorator lets your scrollable React Native components conform to a standard interface, making it easier to compose components. This lets you compose different types of ScrollView-like components while preserving the `ScrollView` API, including methods like `scrollTo`.
 
