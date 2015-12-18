@@ -13,10 +13,10 @@ npm install react-native-scrollable-decorator
 
 ## Usage
 
-Decorate your scrollable React components with `@scrollbale` and implement `getScrollResponder()`, which must return the underlying scrollable component's scroll responder.
+Decorate your scrollable React components with `@scrollable` and implement `getScrollResponder()`, which must return the underlying scrollable component's scroll responder.
 
 ```js
-let scrollable = require('react-native-scrollable');
+let scrollable = require('react-native-scrollable-decorator');
 
 @scrollable
 class InfiniteScrollView extends React.Component {
